@@ -6,10 +6,10 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  --hue-color: 690; /*========== 350 red 420 yellow ==========*/
+  --hue-color: 360; /*========== 350 red 420 yellow ==========*/
 
   /* HSL color mode */
-  --first-color: hsl(324, 94%, 48%);
+  --first-color: hsl(0, 94%, 50%);
   --first-color-second: hsl(var(--hue-color), 69%, 61%);
   --first-color-alt: hsl(var(--hue-color), 57%, 53%);
   --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
