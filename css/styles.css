@@ -1161,14 +1161,13 @@ img {
 }
 
 .footer-title,
-.footer-link{
+.footer-link,
+.footer-subtitle,
+.footer-social{
   color: #fff;
 }
 
-.footer-subtitle,
-.footer-social {
-  color: var(--first-color);
-}
+
 /*========== SCROLL UP ==========*/
 .scrollup {
   position: fixed;
